@@ -1,0 +1,36 @@
+Cloud Bigtable is an ideal solution for handling large volumes of time-series data, such as sensor data from drones, due to its low-latency,
+high-throughput capabilities. Cloud Bigtable is designed to store massive amounts of structured data and allows for fast data retrieval based
+on row keys, which can be structured to include timestamps. By creating a row key based on the event’s timestamp, you can achieve efficient
+and consistent data retrieval in the required timestamped order. Additionally, Cloud Bigtable supports atomic updates and is optimized for 
+high-speed ingestion, making it suitable for handling thousands of events per drone every hour without compromising on performance or
+scalability
+Deployment Manager
+Google Cloud Marketplace
+Node auto-provisioning
+Node pool
+allow permision to a service account in project A to access resource in Project B: https://www.youtube.com/watch?v=ctACCk80H-w
+
+virtual machine vs compute engine
+7
+8
+10
+kubectl for deployement use for all types of deployement?
+12
+14
+17
+18
+20
+21
+22
+26
+27: kubernetes service and kubernetes diployment
+28
+29 SSH vs IAP vs IAM
+31
+32
+
+36
+37
+39
+42
+44
